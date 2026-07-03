@@ -1,0 +1,563 @@
+[
+  {
+    "id": "c1",
+    "branch": "clinique",
+    "value": "Diagnostic général",
+    "price": "À partir de 3 000 F",
+    "desc": "Analyse complète de l'état de votre appareil.",
+    "delai": "30 min à 1h",
+    "garantie": "—",
+    "support": "Inclus",
+    "inclus": [
+      "Test matériel complet",
+      "Vérification des performances",
+      "Rapport de diagnostic",
+      "Conseils personnalisés"
+    ],
+    "longDesc": "Un diagnostic complet de votre ordinateur pour identifier précisément l'origine du problème avant toute intervention. Tu repars avec un rapport clair et des recommandations."
+  },
+  {
+    "id": "c2",
+    "branch": "clinique",
+    "value": "Installation de Windows 11",
+    "price": "15 000 F",
+    "desc": "Installation complète avec configuration et pilotes.",
+    "delai": "1 à 2 heures",
+    "garantie": "7 jours",
+    "support": "Inclus",
+    "inclus": [
+      "Installation de Windows 11",
+      "Installation des pilotes",
+      "Mise à jour du système",
+      "Configuration de base"
+    ],
+    "longDesc": "Installation complète de Windows 11 avec configuration, mise à jour du système et installation des pilotes essentiels pour ton matériel."
+  },
+  {
+    "id": "c3",
+    "branch": "clinique",
+    "value": "Installation des pilotes",
+    "price": "5 000 F",
+    "desc": "Installation et mise à jour de tous les pilotes nécessaires.",
+    "delai": "30 min à 1h",
+    "garantie": "7 jours",
+    "support": "Inclus",
+    "inclus": [
+      "Détection du matériel",
+      "Installation des pilotes officiels",
+      "Mise à jour des pilotes existants",
+      "Test de bon fonctionnement"
+    ],
+    "longDesc": "Carte graphique, Wi-Fi, imprimante, son : on installe et met à jour tous les pilotes nécessaires au bon fonctionnement de ton appareil."
+  },
+  {
+    "id": "c4",
+    "branch": "clinique",
+    "value": "Installation Microsoft Office / logiciels",
+    "price": "5 000 F",
+    "desc": "Installation de Word, Excel, PowerPoint et vos logiciels.",
+    "delai": "1 heure",
+    "garantie": "7 jours",
+    "support": "Inclus",
+    "inclus": [
+      "Installation de la suite Office",
+      "Installation de vos logiciels courants",
+      "Activation et configuration",
+      "Vérification finale"
+    ],
+    "longDesc": "Installation de Microsoft Office et de tes logiciels de travail habituels, prêts à l'emploi."
+  },
+  {
+    "id": "c5",
+    "branch": "clinique",
+    "value": "Nettoyage de virus / lenteur",
+    "price": "8 000 F",
+    "desc": "Analyse complète et nettoyage de votre ordinateur.",
+    "delai": "1 à 2 heures",
+    "garantie": "7 jours",
+    "support": "Inclus",
+    "inclus": [
+      "Suppression des virus et malwares",
+      "Nettoyage des fichiers inutiles",
+      "Optimisation du démarrage",
+      "Antivirus installé"
+    ],
+    "longDesc": "Ton ordinateur est lent ou infecté ? On nettoie en profondeur et on optimise les performances pour qu'il reparte comme neuf."
+  },
+  {
+    "id": "c6",
+    "branch": "clinique",
+    "value": "Formatage et réinstallation complète",
+    "price": "12 000 F",
+    "desc": "Formatage de votre PC et réinstallation complète.",
+    "delai": "2 à 3 heures",
+    "garantie": "7 jours",
+    "support": "Inclus",
+    "inclus": [
+      "Sauvegarde des fichiers importants",
+      "Formatage complet",
+      "Réinstallation du système",
+      "Réinstallation des logiciels de base"
+    ],
+    "longDesc": "Un PC devenu trop lent ou instable ? On repart de zéro : formatage complet et réinstallation propre du système et de tes logiciels essentiels."
+  },
+  {
+    "id": "c7",
+    "branch": "clinique",
+    "value": "Récupération de données",
+    "price": "20 000 F",
+    "desc": "Récupération de fichiers supprimés ou perdus.",
+    "delai": "24 à 48h",
+    "garantie": "—",
+    "support": "Inclus",
+    "inclus": [
+      "Analyse du support de stockage",
+      "Récupération des fichiers accessibles",
+      "Transfert sur support externe",
+      "Confidentialité garantie"
+    ],
+    "longDesc": "Fichiers supprimés par erreur, disque endommagé, formatage accidentel : on tente une récupération avant que les données ne soient perdues définitivement."
+  },
+  {
+    "id": "c8",
+    "branch": "clinique",
+    "value": "Sauvegarde de données",
+    "price": "À partir de 5 000 F",
+    "desc": "Sauvegarde préventive de vos fichiers importants.",
+    "delai": "30 min à 1h",
+    "garantie": "—",
+    "support": "Inclus",
+    "inclus": [
+      "Tri des fichiers importants",
+      "Copie sur support externe ou cloud",
+      "Vérification de l'intégrité",
+      "Conseils de sauvegarde régulière"
+    ],
+    "longDesc": "Mieux vaut prévenir : on sauvegarde tes documents, photos et fichiers importants avant qu'un problème ne survienne."
+  },
+  {
+    "id": "c9",
+    "branch": "clinique",
+    "value": "Configuration réseau / Wi-Fi",
+    "price": "À partir de 5 000 F",
+    "desc": "Configuration de votre réseau et connexion internet.",
+    "delai": "1 heure",
+    "garantie": "—",
+    "support": "Inclus",
+    "inclus": [
+      "Configuration du routeur",
+      "Optimisation du signal Wi-Fi",
+      "Partage réseau et imprimante",
+      "Sécurisation du réseau"
+    ],
+    "longDesc": "Connexion instable, Wi-Fi faible, imprimante non partagée : on configure ton réseau pour qu'il fonctionne correctement chez toi ou au bureau."
+  },
+  {
+    "id": "c10",
+    "branch": "clinique",
+    "value": "Nettoyage physique et entretien",
+    "price": "À partir de 5 000 F",
+    "desc": "Dépoussiérage interne et changement de pâte thermique.",
+    "delai": "1 heure",
+    "garantie": "—",
+    "support": "Inclus",
+    "inclus": [
+      "Ouverture et dépoussiérage",
+      "Changement de pâte thermique",
+      "Vérification des ventilateurs",
+      "Remontage et test"
+    ],
+    "longDesc": "La poussière accumulée fait chauffer et ralentit ton ordinateur. Un nettoyage physique régulier prolonge sa durée de vie."
+  },
+  {
+    "id": "c11",
+    "branch": "clinique",
+    "value": "Mise à niveau matériel (RAM / SSD)",
+    "price": "Sur devis",
+    "desc": "Ajout de mémoire ou remplacement par un disque SSD.",
+    "delai": "1 heure",
+    "garantie": "7 jours",
+    "support": "Inclus",
+    "inclus": [
+      "Conseil sur le matériel adapté",
+      "Installation de la RAM ou du SSD",
+      "Transfert du système si besoin",
+      "Test de performance"
+    ],
+    "longDesc": "Redonne un second souffle à ton ordinateur avec plus de mémoire ou un disque SSD, pour un démarrage et des logiciels plus rapides."
+  },
+  {
+    "id": "c12",
+    "branch": "clinique",
+    "value": "Maintenance préventive",
+    "price": "À partir de 5 000 F",
+    "desc": "Entretien régulier pour prolonger la durée de vie.",
+    "delai": "1 heure",
+    "garantie": "—",
+    "support": "Inclus",
+    "inclus": [
+      "Nettoyage physique et logiciel",
+      "Vérification des composants",
+      "Mise à jour des logiciels",
+      "Rapport d'état"
+    ],
+    "longDesc": "Un entretien régulier pour éviter les pannes, prolonger la durée de vie de ton matériel et garder de bonnes performances."
+  },
+  {
+    "id": "c13",
+    "branch": "clinique",
+    "value": "Saisie et mise en page (rapports, mémoires)",
+    "price": "Selon le volume",
+    "desc": "Frappe et mise en page de vos documents académiques et professionnels.",
+    "delai": "24 à 72h selon le volume",
+    "garantie": "1 révision incl.",
+    "support": "Inclus",
+    "inclus": [
+      "Frappe et saisie du texte",
+      "Mise en page aux normes académiques",
+      "Table des matières automatique",
+      "Export PDF et Word"
+    ],
+    "longDesc": "Rapports de stage, mémoires, thèses ou documents professionnels : on s'occupe de la saisie et d'une mise en page propre et conforme aux normes exigées."
+  },
+  {
+    "id": "s1",
+    "branch": "studio",
+    "value": "Logo / Identité visuelle",
+    "price": "À partir de 15 000 F",
+    "desc": "Création de logo et charte graphique complète.",
+    "delai": "3 à 5 jours",
+    "garantie": "2 révisions incl.",
+    "support": "Inclus",
+    "inclus": [
+      "Logo en plusieurs variantes",
+      "Palette de couleurs",
+      "Typographies recommandées",
+      "Fichiers sources"
+    ],
+    "longDesc": "Une identité visuelle qui te ressemble : logo, couleurs et typographies pensés pour représenter ta marque ou ton projet."
+  },
+  {
+    "id": "s2",
+    "branch": "studio",
+    "value": "Flyer / Affiche",
+    "price": "À partir de 5 000 F",
+    "desc": "Conception graphique pour vos supports de communication.",
+    "delai": "24 à 48h",
+    "garantie": "1 révision incl.",
+    "support": "Inclus",
+    "inclus": [
+      "Conception sur mesure",
+      "Format prêt à imprimer",
+      "1 révision incluse",
+      "Fichier haute résolution"
+    ],
+    "longDesc": "Un visuel percutant pour ton événement, ta promotion ou ton annonce, prêt à imprimer ou à publier."
+  },
+  {
+    "id": "s3",
+    "branch": "studio",
+    "value": "Montage photo / vidéo",
+    "price": "Sur devis",
+    "desc": "Retouche photo et montage vidéo professionnel.",
+    "delai": "2 à 4 jours",
+    "garantie": "—",
+    "support": "Inclus",
+    "inclus": [
+      "Retouche ou montage",
+      "Habillage graphique",
+      "Export multi-formats",
+      "Livraison numérique"
+    ],
+    "longDesc": "Retouche photo ou montage vidéo pour tes contenus personnels, événements ou réseaux sociaux."
+  },
+  {
+    "id": "s4",
+    "branch": "studio",
+    "value": "Impression cartes de visite",
+    "price": "100 unités min.",
+    "desc": "Impression de cartes de visite, tous formats.",
+    "delai": "2 à 3 jours",
+    "garantie": "—",
+    "support": "Inclus",
+    "inclus": [
+      "Papier qualité pro",
+      "Recto ou recto-verso",
+      "Finition mate ou brillante",
+      "Livraison à Yaoundé"
+    ],
+    "longDesc": "Impression professionnelle de tes cartes de visite, en collaboration avec nos imprimeurs partenaires."
+  },
+  {
+    "id": "s5",
+    "branch": "studio",
+    "value": "Impression bâche / affiche",
+    "price": "Sur mesure",
+    "desc": "Impression grand format pour vos événements.",
+    "delai": "2 à 4 jours",
+    "garantie": "—",
+    "support": "Inclus",
+    "inclus": [
+      "Impression grand format",
+      "Toutes dimensions",
+      "Œillets sur demande",
+      "Conseils de pose"
+    ],
+    "longDesc": "Bâches et affiches grand format pour tes événements, boutiques ou campagnes publicitaires."
+  },
+  {
+    "id": "s6",
+    "branch": "studio",
+    "value": "Agrandissement photo",
+    "price": "Tout format",
+    "desc": "Impression et agrandissement de vos photos.",
+    "delai": "24 à 48h",
+    "garantie": "—",
+    "support": "Inclus",
+    "inclus": [
+      "Tous formats disponibles",
+      "Papier photo qualité",
+      "Cadrage sur demande",
+      "Retouche légère incluse"
+    ],
+    "longDesc": "Agrandis tes photos de famille, souvenirs ou œuvres en qualité professionnelle."
+  },
+  {
+    "id": "s7",
+    "branch": "studio",
+    "value": "Roll-up / Kakémono",
+    "price": "Avec ou sans pied",
+    "desc": "Supports publicitaires portables pour vos stands.",
+    "delai": "3 à 5 jours",
+    "garantie": "—",
+    "support": "Inclus",
+    "inclus": [
+      "Design inclus si besoin",
+      "Structure enroulable",
+      "Housse de transport",
+      "Montage facile"
+    ],
+    "longDesc": "Un support publicitaire portable et réutilisable pour tes stands, salons ou points de vente."
+  },
+  {
+    "id": "s8",
+    "branch": "studio",
+    "value": "Pack réseaux sociaux",
+    "price": "À partir de 10 000 F",
+    "desc": "Visuels prêts à publier pour vos réseaux sociaux.",
+    "delai": "2 à 3 jours",
+    "garantie": "1 révision incl.",
+    "support": "Inclus",
+    "inclus": [
+      "Plusieurs visuels déclinés",
+      "Formats adaptés (post, story)",
+      "Charte graphique respectée",
+      "Fichiers prêts à publier"
+    ],
+    "longDesc": "Un pack de visuels cohérents pour animer tes réseaux sociaux sans perdre de temps en conception."
+  },
+  {
+    "id": "s9",
+    "branch": "studio",
+    "value": "Carte de vœux / invitation",
+    "price": "À partir de 5 000 F",
+    "desc": "Conception de cartes pour vos événements et occasions.",
+    "delai": "24 à 48h",
+    "garantie": "1 révision incl.",
+    "support": "Inclus",
+    "inclus": [
+      "Conception personnalisée",
+      "Format prêt à imprimer",
+      "1 révision incluse",
+      "Version numérique et impression"
+    ],
+    "longDesc": "Mariage, anniversaire, vœux de fin d'année : une carte à ton image, prête à imprimer ou à partager en ligne."
+  },
+  {
+    "id": "s10",
+    "branch": "studio",
+    "value": "Packaging / étiquettes produits",
+    "price": "Sur devis",
+    "desc": "Design d'emballages et étiquettes pour vos produits.",
+    "delai": "3 à 5 jours",
+    "garantie": "1 révision incl.",
+    "support": "Inclus",
+    "inclus": [
+      "Design adapté à ton produit",
+      "Format prêt à impression",
+      "Respect des normes d'étiquetage",
+      "Fichiers sources fournis"
+    ],
+    "longDesc": "Un packaging ou des étiquettes qui valorisent ton produit et donnent confiance à tes clients."
+  },
+  {
+    "id": "s11",
+    "branch": "studio",
+    "value": "CV / Portfolio design",
+    "price": "À partir de 5 000 F",
+    "desc": "Mise en forme professionnelle de votre CV ou portfolio.",
+    "delai": "24 à 48h",
+    "garantie": "1 révision incl.",
+    "support": "Inclus",
+    "inclus": [
+      "Design moderne et lisible",
+      "Adapté à ton secteur",
+      "1 révision incluse",
+      "Export PDF prêt à envoyer"
+    ],
+    "longDesc": "Un CV ou portfolio bien conçu qui met en valeur ton profil et retient l'attention des recruteurs."
+  },
+  {
+    "id": "s12",
+    "branch": "studio",
+    "value": "Signalétique (enseignes, panneaux)",
+    "price": "Sur devis",
+    "desc": "Conception et impression de vos supports d'enseigne.",
+    "delai": "3 à 5 jours",
+    "garantie": "—",
+    "support": "Inclus",
+    "inclus": [
+      "Conception sur mesure",
+      "Choix du support adapté",
+      "Impression grand format",
+      "Conseils de pose"
+    ],
+    "longDesc": "Enseignes, panneaux directionnels ou vitrophanie : on conçoit et imprime la signalétique de ton commerce."
+  },
+  {
+    "id": "s13",
+    "branch": "studio",
+    "value": "Mise en page éditoriale (livre, magazine)",
+    "price": "Sur devis",
+    "desc": "Mise en page complète d'ouvrages et publications.",
+    "delai": "5 à 10 jours selon le volume",
+    "garantie": "2 révisions incl.",
+    "support": "Inclus",
+    "inclus": [
+      "Mise en page intérieure complète",
+      "Choix typographique cohérent",
+      "Couverture sur demande",
+      "Fichier prêt pour impression"
+    ],
+    "longDesc": "Livre, recueil, magazine ou rapport annuel : une mise en page soignée qui donne à ton texte l'habillage qu'il mérite."
+  },
+  {
+    "id": "t1",
+    "branch": "training",
+    "value": "Microsoft Word",
+    "price": "Débutant à expert",
+    "desc": "Maîtrisez la rédaction et la mise en forme de documents.",
+    "delai": "Sur rendez-vous",
+    "garantie": "Support de cours",
+    "support": "Inclus",
+    "inclus": [
+      "Cours pratiques",
+      "Support de cours fourni",
+      "Exercices corrigés",
+      "Attestation de suivi"
+    ],
+    "longDesc": "Apprends à rédiger, mettre en forme et structurer tes documents professionnels avec Word, du niveau débutant à avancé."
+  },
+  {
+    "id": "t2",
+    "branch": "training",
+    "value": "Microsoft Excel",
+    "price": "Tableaux et formules",
+    "desc": "Tableaux, formules et analyse de données.",
+    "delai": "Sur rendez-vous",
+    "garantie": "Support de cours",
+    "support": "Inclus",
+    "inclus": [
+      "Cours pratiques",
+      "Support de cours fourni",
+      "Exercices corrigés",
+      "Attestation de suivi"
+    ],
+    "longDesc": "Maîtrise les tableaux, formules et l'analyse de données pour gagner du temps dans ton travail quotidien."
+  },
+  {
+    "id": "t3",
+    "branch": "training",
+    "value": "Microsoft PowerPoint",
+    "price": "Présentations pro",
+    "desc": "Créez des présentations professionnelles percutantes.",
+    "delai": "Sur rendez-vous",
+    "garantie": "Support de cours",
+    "support": "Inclus",
+    "inclus": [
+      "Cours pratiques",
+      "Support de cours fourni",
+      "Exercices corrigés",
+      "Attestation de suivi"
+    ],
+    "longDesc": "Apprends à concevoir des présentations claires, structurées et visuellement percutantes."
+  },
+  {
+    "id": "t4",
+    "branch": "training",
+    "value": "Design graphique (Canva, Illustrator & Photoshop)",
+    "price": "Initiation à avancé",
+    "desc": "Initiation aux outils de création graphique.",
+    "delai": "Sur rendez-vous",
+    "garantie": "Support de cours",
+    "support": "Inclus",
+    "inclus": [
+      "Cours pratiques",
+      "Support de cours fourni",
+      "Exercices corrigés",
+      "Attestation de suivi"
+    ],
+    "longDesc": "Une initiation à Canva, Illustrator et Photoshop pour concevoir tes propres visuels, affiches, retouches photo et supports de communication."
+  },
+  {
+    "id": "t6",
+    "branch": "training",
+    "value": "Intelligence artificielle",
+    "price": "ChatGPT, Claude...",
+    "desc": "Utilisez l'IA au quotidien dans votre travail.",
+    "delai": "Sur rendez-vous",
+    "garantie": "Support de cours",
+    "support": "Inclus",
+    "inclus": [
+      "Cours pratiques",
+      "Support de cours fourni",
+      "Exercices corrigés",
+      "Attestation de suivi"
+    ],
+    "longDesc": "Découvre comment utiliser les outils d'intelligence artificielle pour gagner en productivité au quotidien."
+  },
+  {
+    "id": "t7",
+    "branch": "training",
+    "value": "Maintenance informatique",
+    "price": "Dépannage et entretien",
+    "desc": "Apprenez à entretenir et dépanner votre matériel.",
+    "delai": "Sur rendez-vous",
+    "garantie": "Support de cours",
+    "support": "Inclus",
+    "inclus": [
+      "Cours pratiques",
+      "Support de cours fourni",
+      "Exercices corrigés",
+      "Attestation de suivi"
+    ],
+    "longDesc": "Apprends les bases de l'entretien et du dépannage informatique pour gagner en autonomie."
+  },
+  {
+    "id": "t8",
+    "branch": "training",
+    "value": "Formation à domicile",
+    "price": "Sur devis",
+    "desc": "Toutes nos formations, chez vous ou dans vos locaux.",
+    "delai": "Sur rendez-vous",
+    "garantie": "Frais de déplacement à la charge du client",
+    "support": "Inclus",
+    "inclus": [
+      "N'importe quel cours du catalogue",
+      "Formateur qui se déplace chez vous",
+      "Rythme adapté à votre disponibilité",
+      "Frais de déplacement à votre charge"
+    ],
+    "longDesc": "Toutes nos formations peuvent être dispensées directement chez toi ou dans tes locaux professionnels. Les frais de déplacement restent à la charge du client et sont à convenir selon la zone."
+  }
+]
